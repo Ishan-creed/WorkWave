@@ -1,0 +1,4 @@
+{
+    "accessTokenSecretKey" : "secret-key",
+    "refreshTokenSecretKey" : "refresh-key"
+}
